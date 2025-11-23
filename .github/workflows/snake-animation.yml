@@ -8,22 +8,23 @@ on:
     branches: [ main ]
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    
     steps:
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
           github_user_name: edmondnapil
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
+            output/github-contribution-grid-snake.svg?palette=github-dark
           
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./output
           publish_branch: output
           force_orphan: true
