@@ -49,11 +49,14 @@
 
 </div>
 
-<!-- Snake Animation -->
 
+<!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/edmondnapil/edmondnapil/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://raw.githubusercontent.com/edmondnapil/edmondnapil/output/github-snake-dark.svg" alt="Snake eating contributions" />
 </p>
+
+
+
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edmondnapil&custom_title=Edmond's%20Neural%20Activity&theme=react-dark&hide_border=true&area=true&color=00F7FF&line=9D50FF&point=00F7FF&bg_color=0D1117" />
