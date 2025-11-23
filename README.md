@@ -25,42 +25,45 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **NeuroForge** | A modular framework for rapidly prototyping and deploying agentic AI systems. | `Python` `LangChain` `FastAPI` `React` `Docker` | `🚧 Prototyping` |
-| **Quantum UI** | A futuristic, accessible, and highly performant React component library. | `TypeScript` `React` `Storybook` `Framer Motion` | `🧪 Quantum Testing` |
+| **NeuroForge** | Modular framework for agentic AI systems | `Python` `LangChain` `FastAPI` `React` | `🚧 Prototyping` |
+| **Quantum UI** | Futuristic React component library | `TypeScript` `React` `Framer Motion` | `🧪 Testing` |
 
 ---
 
 ### 📊 **System Telemetry**
 
-<p align="center">
-  <!-- GitHub Stats with Glow -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmondnapil&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7FF&icon_color=9D50FF&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmondnapil&layout=compact&hide_border=true&theme=radical&langs_count=8&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- GitHub Streak with Fire -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edmondnapil&theme=radical&hide_border=true&background=0D1117&fire=00F7FF&ring=9D50FF&currStreakLabel=00F7FF" />
-</p>
+<!-- GitHub Stats Row -->
+<a href="https://github.com/edmondnapil">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edmondnapil&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7FF&icon_color=9D50FF&text_color=ffffff" />
+</a>
+<a href="https://github.com/edmondnapil">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmondnapil&layout=compact&hide_border=true&theme=radical&langs_count=8&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
+</a>
 
-<!-- Animated Snake Game -->
-<p align="center">
-  <img src="https://github.com/edmondnapil/edmondnapil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
-</p>
+<!-- GitHub Streak -->
+<a href="https://github.com/edmondnapil">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=edmondnapil&theme=radical&hide_border=true&background=0D1117&fire=00F7FF&ring=9D50FF&currStreakLabel=00F7FF" />
+</a>
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/edmondnapil/edmondnapil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=edmondnapil&custom_title=Edmond%27s%20Neural%20Activity&theme=react-dark&hide_border=true&area=true&color=00F7FF&line=9D50FF&point=00F7FF" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edmondnapil&custom_title=Edmond's%20Neural%20Activity&theme=react-dark&hide_border=true&area=true&color=00F7FF&line=9D50FF&point=00F7FF&bg_color=0D1117" />
+</div>
 
 ---
 
 ### 🌌 **Quantum Entanglement Links**
 
 <p align="center">
-  <!-- Futuristic Icon Links -->
   <a href="https://www.linkedin.com/in/edmondnapil/">
     <img src="https://img.shields.io/badge/Quantum_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
