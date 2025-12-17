@@ -1,0 +1,10 @@
+0 Watches
+1 Sunglassess
+2 Belts
+3 Handbags
+4 Necklaces
+5 Rings
+6 Wallets
+7 Hats
+8 Earrings
+9 Bracelets
